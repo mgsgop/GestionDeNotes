@@ -17,27 +17,27 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	button10.click = function button10_click (event)// @startlock
 	{// @endlock
-		waf.sources.Etudiants.filterQuery("Nom=:1",'qString');
+		waf.sources.Etudiants.filterQuery("Nom=:1",qString +"*");
 	};// @lock
 
 	button9.click = function button9_click (event)// @startlock
 	{// @endlock
-		waf.sources.Etudiants3.filterQuery("Nom=:1",'qString');
+		waf.sources.Etudiants3.filterQuery("Nom=:1",qString +"*");
 	};// @lock
 
 	button8.click = function button8_click (event)// @startlock
 	{// @endlock
-		waf.sources.Etudiants2.filterQuery("Nom=:1",'qString');
+		waf.sources.Etudiants2.filterQuery("Nom=:1",qString +"*");
 	};// @lock
 
 	button7.click = function button7_click (event)// @startlock
 	{// @endlock
-		waf.sources.Etudiants1.filterQuery("Nom=:1",'qString');
+		waf.sources.Etudiants1.filterQuery("Nom=:1",qString +"*");
 	};// @lock
 
 	button1.click = function button1_click (event)// @startlock
 	{// @endlock
-		waf.sources.Etudiants.filterQuery("Nom=:1",'qString');
+		waf.sources.Etudiants.filterQuery("Nom=:1",qString +"*");
 	};// @lock
 
 	menuItem5.click = function menuItem5_click (event)// @startlock
