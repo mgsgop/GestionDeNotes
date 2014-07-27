@@ -3,556 +3,659 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#label53 {
+#label15 {
+	 z-index: 8;
 	 width: 75px;
 	 height: 13px;
-	 top: 48px;
-	 left: 389px;
+	 top: 147px;
+	 left: 116px;
 	
 	 position: absolute;
 	 min-width: 75px;
+	 
+}
+
+#checkbox2 {
+	 z-index: 8;
+	 width: 16px;
+	 height: 16px;
+	 top: 146px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#label14 {
+	 z-index: 6;
+	 width: 92px;
+	 height: 13px;
+	 top: 108px;
+	 left: -2px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#textField12 {
+	 z-index: 6;
+	 width: 130px;
+	 height: 22px;
+	 top: 104px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#label13 {
+	 z-index: 4;
+	 width: 93px;
+	 height: 13px;
+	 top: 66px;
+	 left: -3px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#textField11 {
+	 z-index: 4;
+	 width: 130px;
+	 height: 22px;
+	 top: 62px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#label12 {
+	 z-index: 2;
+	 width: 75px;
+	 height: 13px;
+	 top: 24px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#textField10 {
+	 z-index: 2;
+	 width: 130px;
+	 height: 22px;
+	 top: 20px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#container7 {
+	 z-index: 4;
+	 width: 245px;
+	 height: 182px;
+	 top: 50px;
+	 left: 849px;
+	
+	 position: absolute;
+	 
+}
+
+#label53 {
 	 z-index: 11;
+	 width: 75px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
+	
+	 position: absolute;
+	 min-width: 75px;
 	 
 }
 
 #label52 {
-	 width: 37px;
-	 height: 13px;
-	 top: 33px;
-	 left: 26px;
+	 z-index: 9;
+	 width: 31px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #label51 {
+	 z-index: 8;
 	 width: 75px;
-	 height: 13px;
-	 top: 168px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 8;
 	 
 }
 
 #label50 {
+	 z-index: 7;
 	 width: 75px;
-	 height: 13px;
-	 top: 127px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 7;
 	 
 }
 
 #label49 {
+	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 81px;
-	 left: 52px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 6;
 	 
 }
 
 #combobox8 {
+	 z-index: 11;
 	 width: 164px;
 	 height: 24px;
 	 top: 43px;
 	 left: 469px;
 	
 	 position: absolute;
-	 z-index: 11;
 	 
 }
 
 #button10 {
+	 z-index: 10;
 	 width: 92px;
 	 height: 22px;
 	 top: 30px;
 	 left: 237px;
 	
 	 position: absolute;
-	 z-index: 10;
 	 
 }
 
 #textField44 {
+	 z-index: 9;
 	 width: 130px;
 	 height: 22px;
 	 top: 29px;
 	 left: 68px;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #textField43 {
+	 z-index: 8;
 	 width: 130px;
 	 height: 22px;
 	 top: 164px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 8;
 	 
 }
 
 #textField42 {
+	 z-index: 7;
 	 width: 130px;
 	 height: 22px;
 	 top: 123px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 7;
 	 
 }
 
 #textField41 {
+	 z-index: 6;
 	 width: 130px;
 	 height: 22px;
 	 top: 77px;
 	 left: 132px;
 	
 	 position: absolute;
-	 z-index: 6;
 	 
 }
 
 #container18 {
+	 z-index: 3;
 	 width: 887px;
 	 height: 669px;
 	 top: 0px;
 	 left: 489px;
 	
 	 position: absolute;
-	 z-index: 3;
 	 
 }
 
 #label48 {
+	 z-index: 11;
 	 width: 75px;
-	 height: 13px;
-	 top: 48px;
-	 left: 389px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 11;
 	 
 }
 
 #label47 {
-	 width: 37px;
-	 height: 13px;
-	 top: 33px;
-	 left: 26px;
+	 z-index: 9;
+	 width: 31px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #label46 {
+	 z-index: 8;
 	 width: 75px;
-	 height: 13px;
-	 top: 168px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 8;
 	 
 }
 
 #label45 {
+	 z-index: 7;
 	 width: 75px;
-	 height: 13px;
-	 top: 127px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 7;
 	 
 }
 
 #label44 {
+	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 81px;
-	 left: 52px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 6;
 	 
 }
 
 #combobox7 {
+	 z-index: 11;
 	 width: 164px;
 	 height: 24px;
 	 top: 43px;
 	 left: 469px;
 	
 	 position: absolute;
-	 z-index: 11;
 	 
 }
 
 #button9 {
+	 z-index: 10;
 	 width: 92px;
 	 height: 22px;
 	 top: 30px;
 	 left: 237px;
 	
 	 position: absolute;
-	 z-index: 10;
 	 
 }
 
 #textField40 {
+	 z-index: 9;
 	 width: 130px;
 	 height: 22px;
 	 top: 29px;
 	 left: 68px;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #textField39 {
+	 z-index: 8;
 	 width: 130px;
 	 height: 22px;
 	 top: 164px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 8;
 	 
 }
 
 #textField38 {
+	 z-index: 7;
 	 width: 130px;
 	 height: 22px;
 	 top: 123px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 7;
 	 
 }
 
 #textField37 {
+	 z-index: 6;
 	 width: 130px;
 	 height: 22px;
 	 top: 77px;
 	 left: 132px;
 	
 	 position: absolute;
-	 z-index: 6;
 	 
 }
 
 #container17 {
+	 z-index: 3;
 	 width: 887px;
 	 height: 669px;
 	 top: 0px;
 	 left: 487px;
 	
 	 position: absolute;
-	 z-index: 3;
 	 
 }
 
 #label43 {
+	 z-index: 11;
 	 width: 75px;
-	 height: 13px;
-	 top: 48px;
-	 left: 389px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 11;
 	 
 }
 
 #label42 {
-	 width: 37px;
-	 height: 13px;
-	 top: 33px;
-	 left: 26px;
+	 z-index: 9;
+	 width: 31px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #label41 {
+	 z-index: 8;
 	 width: 75px;
-	 height: 13px;
-	 top: 168px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 8;
 	 
 }
 
 #label40 {
+	 z-index: 7;
 	 width: 75px;
-	 height: 13px;
-	 top: 127px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 7;
 	 
 }
 
 #label39 {
+	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 81px;
-	 left: 52px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 6;
 	 
 }
 
 #combobox6 {
+	 z-index: 11;
 	 width: 164px;
 	 height: 24px;
 	 top: 43px;
 	 left: 469px;
 	
 	 position: absolute;
-	 z-index: 11;
 	 
 }
 
 #button8 {
+	 z-index: 10;
 	 width: 92px;
 	 height: 22px;
 	 top: 30px;
 	 left: 237px;
 	
 	 position: absolute;
-	 z-index: 10;
 	 
 }
 
 #textField36 {
+	 z-index: 9;
 	 width: 130px;
 	 height: 22px;
 	 top: 29px;
 	 left: 68px;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #textField35 {
+	 z-index: 8;
 	 width: 130px;
 	 height: 22px;
 	 top: 164px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 8;
 	 
 }
 
 #textField34 {
+	 z-index: 7;
 	 width: 130px;
 	 height: 22px;
 	 top: 123px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 7;
 	 
 }
 
 #textField33 {
+	 z-index: 6;
 	 width: 130px;
 	 height: 22px;
 	 top: 77px;
 	 left: 132px;
 	
 	 position: absolute;
-	 z-index: 6;
 	 
 }
 
 #container11 {
+	 z-index: 3;
 	 width: 887px;
 	 height: 669px;
 	 top: 0px;
 	 left: 488px;
 	
 	 position: absolute;
-	 z-index: 3;
 	 
 }
 
 #label38 {
+	 z-index: 11;
 	 width: 75px;
-	 height: 13px;
-	 top: 48px;
-	 left: 389px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 11;
 	 
 }
 
 #label37 {
-	 width: 37px;
-	 height: 13px;
-	 top: 33px;
-	 left: 26px;
+	 z-index: 9;
+	 width: 31px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #label36 {
+	 z-index: 8;
 	 width: 75px;
-	 height: 13px;
-	 top: 168px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 8;
 	 
 }
 
 #label35 {
+	 z-index: 7;
 	 width: 75px;
-	 height: 13px;
-	 top: 127px;
-	 left: 51px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 7;
 	 
 }
 
 #label34 {
+	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 81px;
-	 left: 52px;
+	 height: 16px;
+	 top: NaNpx;
+	 left: NaNpx;
 	
 	 position: absolute;
 	 min-width: 75px;
-	 z-index: 6;
 	 
 }
 
 #combobox5 {
+	 z-index: 11;
 	 width: 164px;
 	 height: 24px;
 	 top: 43px;
 	 left: 469px;
 	
 	 position: absolute;
-	 z-index: 11;
 	 
 }
 
 #button7 {
+	 z-index: 10;
 	 width: 92px;
 	 height: 22px;
 	 top: 30px;
 	 left: 237px;
 	
 	 position: absolute;
-	 z-index: 10;
 	 
 }
 
 #textField32 {
+	 z-index: 9;
 	 width: 130px;
 	 height: 22px;
 	 top: 29px;
 	 left: 68px;
 	
 	 position: absolute;
-	 z-index: 9;
 	 
 }
 
 #textField31 {
+	 z-index: 8;
 	 width: 130px;
 	 height: 22px;
 	 top: 164px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 8;
 	 
 }
 
 #textField30 {
+	 z-index: 7;
 	 width: 130px;
 	 height: 22px;
 	 top: 123px;
 	 left: 131px;
 	
 	 position: absolute;
-	 z-index: 7;
 	 
 }
 
 #textField29 {
+	 z-index: 6;
 	 width: 130px;
 	 height: 22px;
 	 top: 77px;
 	 left: 132px;
 	
 	 position: absolute;
-	 z-index: 6;
 	 
 }
 
 #container10 {
+	 z-index: 3;
 	 width: 887px;
 	 height: 669px;
 	 top: 0px;
 	 left: 487px;
 	
 	 position: absolute;
-	 z-index: 3;
 	 
 }
 
 #label28 {
-	 z-index: 11;
+	 z-index: 3;
 	 width: 75px;
 	 height: 13px;
-	 top: 48px;
-	 left: 389px;
+	 top: 17px;
+	 left: 851px;
 	
 	 position: absolute;
 	 min-width: 75px;
@@ -560,153 +663,13 @@
 }
 
 #combobox3 {
-	 z-index: 11;
+	 z-index: 3;
 	 width: 164px;
 	 height: 24px;
-	 top: 43px;
-	 left: 469px;
+	 top: 12px;
+	 left: 931px;
 	
 	 position: absolute;
-	 
-}
-
-#combobox2 waf-label {
-	 
-}
-
-#label8 {
-	 z-index: 6;
-	 width: 29px;
-	 height: 13px;
-	 top: 5px;
-	 left: -34px;
-	
-	 
-}
-
-#container5 {
-	 width: 290px;
-	 height: 1034px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#textField7 {
-	 width: 130px;
-	 height: 22px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#label9 {
-	 width: 13px;
-	 height: 13px;
-	 top: 4px;
-	 left: -18px;
-	
-	 
-}
-
-#autoForm1 {
-	 width: 250px;
-	 height: 250px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#autoForm2 {
-	 width: 250px;
-	 height: 250px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#textField8 {
-	 width: 130px;
-	 height: 22px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#label10 {
-	 width: 66px;
-	 height: 13px;
-	 top: 4px;
-	 left: -71px;
-	
-	 
-}
-
-#textField9 {
-	 width: 130px;
-	 height: 22px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#label20 {
-	 width: 93px;
-	 height: 13px;
-	 top: 4px;
-	 left: -98px;
-	
-	 
-}
-
-#textField19 {
-	 width: 130px;
-	 height: 22px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#label26 {
-	 width: 92px;
-	 height: 13px;
-	 top: 4px;
-	 left: -97px;
-	
-	 
-}
-
-#checkbox1 {
-	 width: 16px;
-	 height: 16px;
-	 top: 0px;
-	 left: 0px;
-	
-	 
-}
-
-#label27 {
-	 width: 33px;
-	 height: 13px;
-	 top: 1px;
-	 left: 21px;
-	
-	 
-}
-
-#autoForm3 {
-	 width: 250px;
-	 height: 250px;
-	 top: 0px;
-	 left: 0px;
-	
 	 
 }
 
@@ -734,10 +697,10 @@
 
 #label25 {
 	 z-index: 8;
-	 width: 37px;
-	 height: 13px;
-	 top: 33px;
-	 left: 26px;
+	 width: 31px;
+	 height: 16px;
+	 top: 32px;
+	 left: 32px;
 	
 	 position: absolute;
 	 
@@ -746,8 +709,8 @@
 #label4 {
 	 z-index: 6;
 	 width: 75px;
-	 height: 13px;
-	 top: 168px;
+	 height: 16px;
+	 top: 167px;
 	 left: 51px;
 	
 	 position: absolute;
@@ -769,8 +732,8 @@
 #label3 {
 	 z-index: 4;
 	 width: 75px;
-	 height: 13px;
-	 top: 127px;
+	 height: 16px;
+	 top: 126px;
 	 left: 51px;
 	
 	 position: absolute;
@@ -792,8 +755,8 @@
 #label2 {
 	 z-index: 2;
 	 width: 75px;
-	 height: 13px;
-	 top: 81px;
+	 height: 16px;
+	 top: 80px;
 	 left: 52px;
 	
 	 position: absolute;
@@ -814,7 +777,7 @@
 
 #container3 {
 	 z-index: 2;
-	 width: 862px;
+	 width: 345px;
 	 height: 669px;
 	 top: 0px;
 	 left: 488px;
@@ -1078,8 +1041,8 @@
 #label1 {
 	 z-index: 3;
 	 width: 38px;
-	 height: 14px;
-	 top: 72px;
+	 height: 16px;
+	 top: 71px;
 	 left: 32px;
 	
 	 position: absolute;
